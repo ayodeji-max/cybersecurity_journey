@@ -1,0 +1,7 @@
+Linux topics covered:
+-Navigation commands
+-file permissions 
+-Users and groups
+-Pipes and redirection 
+-grep, sort, uniq, wc
+-nano and vim
